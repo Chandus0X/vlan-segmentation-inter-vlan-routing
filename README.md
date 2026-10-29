@@ -133,7 +133,7 @@ vlan-segmentation-inter-vlan-routing/
 └── README.md
 ```
 
-*Update this list if your actual filenames differ or if you add more screenshots.*
+
 
 ## Tools and Technologies
 
