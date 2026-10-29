@@ -154,7 +154,6 @@ The tests demonstrate the configured directional access policy between HR and Fi
 
 ![Final HR connectivity tests](Screenshots/09-final-hr-connectivity-tests.png)
 
-![Final Finance to HR test](Screenshots/10-final-finance-to-hr-allowed.png)
 
 ![Final IT connectivity tests](Screenshots/11-final-it-connectivity.png)
 
@@ -180,7 +179,6 @@ vlan-segmentation-inter-vlan-routing/
     ├── 07-hr-to-finance-blocked.png
     ├── 08-sw1-port-security.png
     ├── 09-final-hr-connectivity-tests.png
-    ├── 10-final-finance-to-hr-allowed.png
     └── 11-final-it-connectivity.png
 ```
 
